@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Olá eu sou o Igor Santos 👋
 
 - 🔭 Atualmente estou trabalhando com back-end ...
